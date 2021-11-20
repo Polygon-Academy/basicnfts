@@ -16,11 +16,6 @@ git clone https://github.com/austintgriffith/scaffold-eth.git matic-nft-tutorial
 ```
 cd matic-nft-tutorial
 ```
-It is very important that you checkout the `matic-nft-tutorial` branch of 🏗 scaffold-eth:
-```
-git checkout matic-nft-tutorial
-```
-
 ```
 yarn install
 ```
