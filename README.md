@@ -11,14 +11,10 @@
 Required: [Node](https://nodejs.org/dist/latest-v12.x/) plus [Yarn](https://classic.yarnpkg.com/en/docs/install/#mac-stable) and [Git](https://git-scm.com/downloads)
 
 ```
-git clone https://github.com/austintgriffith/scaffold-eth.git matic-nft-tutorial
+git clone https://github.com/Polygon-Academy/basicnfts
+
 ```
-```
-cd matic-nft-tutorial
-```
-It is very important that you checkout the `matic-nft-tutorial` branch of 🏗 scaffold-eth:
-```
-git checkout matic-nft-tutorial
+cd basicnfts
 ```
 
 ```
