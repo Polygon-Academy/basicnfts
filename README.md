@@ -22,7 +22,7 @@ cd basicnfts
 yarn install
 ```
 
-```
+
 
 First, be sure to check that you're deploying on `mumbai` by changing the `defaultNetwork` in `packages/hardhat/hardhat.config.js`:
 
