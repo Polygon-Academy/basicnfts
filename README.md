@@ -17,12 +17,10 @@ git clone https://github.com/Polygon-Academy/basicnfts
 
 ```
 cd basicnfts
-
 ```
 
 ```
 yarn install
-
 ```
 
 ```
