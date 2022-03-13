@@ -12,7 +12,6 @@ Required: [Node](https://nodejs.org/dist/latest-v12.x/) plus [Yarn](https://clas
 
 ```
 git clone https://github.com/Polygon-Academy/basicnfts
-
 ```
 
 ```
