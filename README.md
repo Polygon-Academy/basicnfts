@@ -73,7 +73,7 @@ yarn start
 
 > in a new terminal window run the mint script:
 ```
-cd matic-nft-tutorial
+cd basicnfts
 yarn mint
 ```
 ![nft2](https://user-images.githubusercontent.com/526558/124386972-3d432780-dcb3-11eb-933e-dad7dfd313b2.png)
