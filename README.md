@@ -11,18 +11,19 @@
 Required: [Node](https://nodejs.org/dist/latest-v12.x/) plus [Yarn](https://classic.yarnpkg.com/en/docs/install/#mac-stable) and [Git](https://git-scm.com/downloads)
 
 ```
-
 git clone https://github.com/Polygon-Academy/basicnfts
 
 ```
 
+```
 cd basicnfts
 
 ```
 
 ```
-
 yarn install
+
+```
 
 ```
 
